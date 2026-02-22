@@ -25,7 +25,8 @@ const ProjectsSection = () => {
             Projects
           </h2>
           <p className="text-muted-foreground font-body text-lg max-w-2xl mb-10">
-            A selection of backend systems, tools, and platforms I've architected and built.
+            A selection of full-stack platforms, developer tools, and
+            event-driven systems I've architected and shipped.
           </p>
         </motion.div>
 

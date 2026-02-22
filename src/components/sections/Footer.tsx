@@ -15,7 +15,7 @@ const Footer = () => {
           Let's Build Something
         </h2>
         <p className="text-muted-foreground font-body mb-8 max-w-lg mx-auto">
-          Looking for a senior backend engineer who can architect and ship? Let's talk.
+          Looking for a senior full-stack engineer who can architect and ship reliable systems? Let's talk.
         </p>
 
         <a

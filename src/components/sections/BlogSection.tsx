@@ -22,7 +22,7 @@ const BlogSection = () => {
             Blog
           </h2>
           <p className="text-muted-foreground font-body text-lg max-w-2xl mb-12">
-            Thoughts on backend engineering, distributed systems, and technical leadership.
+            Notes on building scalable frontend/backend systems, event-driven architecture, developer tooling, and engineering execution.
           </p>
         </motion.div>
 

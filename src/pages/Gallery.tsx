@@ -28,7 +28,7 @@ const Gallery = () => {
               Gallery
             </h1>
             <p className="text-muted-foreground font-body text-lg max-w-2xl mb-12">
-              Moments from conferences, team events, and the engineering life.
+              Moments from football, tennis, festivals, tech conferences, and deep build sessions.
             </p>
           </motion.div>
 

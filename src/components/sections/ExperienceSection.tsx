@@ -19,9 +19,13 @@ const ExperienceSection = () => {
             About & Experience
           </h2>
           <p className="text-muted-foreground font-body text-lg leading-relaxed max-w-2xl mb-16">
-            I believe in building systems that are simple to understand, reliable under pressure,
-            and designed to evolve. Over 10 years, I've led teams, architected platforms serving
-            millions, and shipped software that companies depend on daily.
+            Senior Full-Stack Engineer with 10+ years of experience building
+            scalable web and mobile platforms across fintech, SaaS, and
+            developer tooling. I specialize in architecting event-driven
+            systems, designing reliable APIs, and shipping production-ready
+            applications with strong observability and developer experience. I
+            enjoy turning complex product ideas into maintainable systems that
+            teams can move fast on.
           </p>
         </motion.div>
 

@@ -18,7 +18,7 @@ const HeroSection = () => {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="text-sm uppercase tracking-[0.3em] text-muted-foreground font-heading mb-6"
         >
-          Senior Lead Backend Engineer · 10 Years
+          Technical Lead, Full-Stack Engineer · 10+ Years
         </motion.p>
 
         <motion.h1
@@ -38,8 +38,9 @@ const HeroSection = () => {
           transition={{ duration: 0.6, delay: 0.8 }}
           className="mt-8 text-lg md:text-xl text-muted-foreground font-body max-w-2xl mx-auto leading-relaxed"
         >
-          Architecting systems at scale — distributed backends, data pipelines,
-          and infrastructure that serves millions.
+          Designing and shipping scalable systems across frontend and backend —
+          event-driven architectures, observable infrastructure, and resilient
+          platforms that support thousands of customers in production.
         </motion.p>
 
         <motion.div
